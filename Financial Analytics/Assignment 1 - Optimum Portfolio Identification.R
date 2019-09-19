@@ -5,7 +5,7 @@ library(tidyquant)
 library(tidyverse)
 library(dplyr)
 
-returns = read.csv("G://Financial Analytics//Assignment 1//nse50_monthly_returns_25_stocks.csv")
+returns = read.csv("G://nse50_monthly_returns_25_stocks.csv")
 returns.use = returns[,-1]
 returns.dist = dist(returns.use)
 returns.hclust = hclust(returns.dist)
