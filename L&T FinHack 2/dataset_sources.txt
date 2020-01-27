@@ -1,0 +1,7 @@
+1. Wholesale Price Index       : https://data.gov.in/resources/wholesale-price-index-monthly-base-year-2011-12-till-last-month
+2. Consumer Price Index        : https://data.oecd.org/price/inflation-cpi.htm
+3. Composite Leading Indicator : https://data.oecd.org/leadind/composite-leading-indicator-cli.htm
+4. Consumer Confidence Index   : https://data.oecd.org/leadind/consumer-confidence-index-cci.htm#indicator-chart
+6. Long term interest Rates    : https://data.oecd.org/interest/long-term-interest-rates.htm
+7. Producer Price Index        : https://data.oecd.org/price/producer-price-indices-ppi.htm
+8. Share Prices                : https://data.oecd.org/price/share-prices.htm
